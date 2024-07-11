@@ -1,0 +1,206 @@
+
+
+@font-face {
+    font-family: 'Frozen Crystal Condensed';
+    src: url('fonts/FrozenCrystalCondensed.eot');
+    src: url('fonts/FrozenCrystalCondensed.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalCondensed.woff2') format('woff2'),
+        url('fonts/FrozenCrystalCondensed.woff') format('woff'),
+        url('fonts/FrozenCrystalCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Chrome';
+    src: url('fonts/FrozenCrystalChrome.eot');
+    src: url('fonts/FrozenCrystalChrome.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalChrome.woff2') format('woff2'),
+        url('fonts/FrozenCrystalChrome.woff') format('woff'),
+        url('fonts/FrozenCrystalChrome.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal';
+    src: url('fonts/FrozenCrystalBold.eot');
+    src: url('fonts/FrozenCrystalBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalBold.woff2') format('woff2'),
+        url('fonts/FrozenCrystalBold.woff') format('woff'),
+        url('fonts/FrozenCrystalBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Academy';
+    src: url('fonts/FrozenCrystalAcademy.eot');
+    src: url('fonts/FrozenCrystalAcademy.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalAcademy.woff2') format('woff2'),
+        url('fonts/FrozenCrystalAcademy.woff') format('woff'),
+        url('fonts/FrozenCrystalAcademy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal';
+    src: url('fonts/FrozenCrystal.eot');
+    src: url('fonts/FrozenCrystal.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystal.woff2') format('woff2'),
+        url('fonts/FrozenCrystal.woff') format('woff'),
+        url('fonts/FrozenCrystal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal 3D';
+    src: url('fonts/FrozenCrystal3D.eot');
+    src: url('fonts/FrozenCrystal3D.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystal3D.woff2') format('woff2'),
+        url('fonts/FrozenCrystal3D.woff') format('woff'),
+        url('fonts/FrozenCrystal3D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Halftone';
+    src: url('fonts/FrozenCrystalHalftone.eot');
+    src: url('fonts/FrozenCrystalHalftone.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalHalftone.woff2') format('woff2'),
+        url('fonts/FrozenCrystalHalftone.woff') format('woff'),
+        url('fonts/FrozenCrystalHalftone.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Gradient';
+    src: url('fonts/FrozenCrystalGradient.eot');
+    src: url('fonts/FrozenCrystalGradient.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalGradient.woff2') format('woff2'),
+        url('fonts/FrozenCrystalGradient.woff') format('woff'),
+        url('fonts/FrozenCrystalGradient.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Semi';
+    src: url('fonts/FrozenCrystalSemi-Italic.eot');
+    src: url('fonts/FrozenCrystalSemi-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalSemi-Italic.woff2') format('woff2'),
+        url('fonts/FrozenCrystalSemi-Italic.woff') format('woff'),
+        url('fonts/FrozenCrystalSemi-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Title';
+    src: url('fonts/FrozenCrystalTitle.eot');
+    src: url('fonts/FrozenCrystalTitle.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalTitle.woff2') format('woff2'),
+        url('fonts/FrozenCrystalTitle.woff') format('woff'),
+        url('fonts/FrozenCrystalTitle.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal';
+    src: url('fonts/FrozenCrystalLight.eot');
+    src: url('fonts/FrozenCrystalLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalLight.woff2') format('woff2'),
+        url('fonts/FrozenCrystalLight.woff') format('woff'),
+        url('fonts/FrozenCrystalLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Expanded';
+    src: url('fonts/FrozenCrystalExpanded.eot');
+    src: url('fonts/FrozenCrystalExpanded.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalExpanded.woff2') format('woff2'),
+        url('fonts/FrozenCrystalExpanded.woff') format('woff'),
+        url('fonts/FrozenCrystalExpanded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Engraved';
+    src: url('fonts/FrozenCrystalEngraved.eot');
+    src: url('fonts/FrozenCrystalEngraved.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalEngraved.woff2') format('woff2'),
+        url('fonts/FrozenCrystalEngraved.woff') format('woff'),
+        url('fonts/FrozenCrystalEngraved.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Super';
+    src: url('fonts/FrozenCrystalSuper-Italic.eot');
+    src: url('fonts/FrozenCrystalSuper-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalSuper-Italic.woff2') format('woff2'),
+        url('fonts/FrozenCrystalSuper-Italic.woff') format('woff'),
+        url('fonts/FrozenCrystalSuper-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Punch';
+    src: url('fonts/FrozenCrystalPunch.eot');
+    src: url('fonts/FrozenCrystalPunch.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalPunch.woff2') format('woff2'),
+        url('fonts/FrozenCrystalPunch.woff') format('woff'),
+        url('fonts/FrozenCrystalPunch.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal Leftalic';
+    src: url('fonts/FrozenCrystalLeftalic.eot');
+    src: url('fonts/FrozenCrystalLeftalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalLeftalic.woff2') format('woff2'),
+        url('fonts/FrozenCrystalLeftalic.woff') format('woff'),
+        url('fonts/FrozenCrystalLeftalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Frozen Crystal';
+    src: url('fonts/FrozenCrystalItalic.eot');
+    src: url('fonts/FrozenCrystalItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FrozenCrystalItalic.woff2') format('woff2'),
+        url('fonts/FrozenCrystalItalic.woff') format('woff'),
+        url('fonts/FrozenCrystalItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+

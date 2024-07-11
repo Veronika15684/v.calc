@@ -1,0 +1,23 @@
+/* fonts */
+@font-face {
+    font-family: 'Frozen Crystal';
+    src: url('../fonts/FrozenCrystalBold.eot');
+    src: url('../fonts/FrozenCrystalBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FrozenCrystalBold.woff2') format('woff2'),
+        url('../fonts/FrozenCrystalBold.woff') format('woff'),
+        url('../fonts/FrozenCrystalBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Frozen Crystal Halftone';
+    src: url('../fonts/FrozenCrystalHalftone.eot');
+    src: url('../fonts/FrozenCrystalHalftone.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FrozenCrystalHalftone.woff2') format('woff2'),
+        url('../fonts/FrozenCrystalHalftone.woff') format('woff'),
+        url('../fonts/FrozenCrystalHalftone.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }

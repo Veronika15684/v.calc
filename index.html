@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style/style.css" />
+        <link rel="stylesheet" href="style/adaptive.css" />
+        <link rel="shortcut icon" href="svg_images/favicon.ico" />
+        <title>v.calc</title>
+        <script src="js/1.js" async></script>
+        <script src="js/math.js" async></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="calculator_wrapper">
+                <div class="clear_input_container">
+                    <label
+                        id="result"
+                        style="cursor: pointer"
+                        for="inp"
+                        class="label"
+                        >0</label
+                    >
+                    <input
+                        class="input_text col-8"
+                        type="text"
+                        id="inp"
+                        value="0"
+                    />
+                    <button class="delete_buttons delete_button">◁</button>
+                    <button class="delete_buttons alclear_button">AC</button>
+                </div>
+                <div class="buttons_container">
+                    <div class="number_buttons col-8">
+                        <button class="numButtons button col-4">7</button>
+                        <button class="numButtons button col-4">8</button>
+                        <button class="numButtons button col-4">9</button>
+                        <button class="numButtons button col-4">4</button>
+                        <button class="numButtons button col-4">5</button>
+                        <button class="numButtons button col-4">6</button>
+                        <button class="numButtons button col-4">1</button>
+                        <button class="numButtons button col-4">2</button>
+                        <button class="numButtons button col-4">3</button>
+                        <button class="numButtons button col-4">.</button>
+                        <button class="numButtons button col-4">0</button>
+                        <button class="numButtons button col-4">()</button>
+                    </div>
+                    <div class="sign_buttons col-4">
+                        <button class="primary primary_1 button col-12">
+                            •
+                        </button>
+                        <button class="primary primary_2 button col-12">
+                            /
+                        </button>
+                        <button class="primary primary_3 button col-12">
+                            -
+                        </button>
+                        <button class="primary primary_4 button col-12">
+                            +
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

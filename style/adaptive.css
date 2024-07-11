@@ -1,0 +1,241 @@
+@media(max-width: 611px){
+    .numButtons, .primary {
+        padding: 27px 0px;
+    }
+    .label{
+        left: -143px;
+    }
+    .primary::after {
+        left: 61px;
+    }
+    .primary_4::after {
+        left: 55px;
+    }
+}
+
+@media(max-width: 611px){
+    .numButtons, .primary {
+        padding: 27px 0px;
+    }
+    .label{
+        left: -143px;
+    }
+    .primary::after {
+        left: 61px;
+    }
+    .primary_4::after {
+        left: 55px;
+    }
+}
+
+@media(max-width: 540px){
+    .numButtons, .primary {
+        padding: 22px 0px;
+    }
+    .numButtons{
+        font-size: 23px;
+    }
+    .label{
+        left: -130px;
+        top: 43px;
+        font-size: 25px;
+    }
+    .input_text{
+        height: 82px;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+    .primary::after,.primary.brPressed::after {
+        left: 61px;
+        background-size: 90%;
+        top: 20px;
+        bottom: 10px;
+    }
+    .primary_1::after, .primary_1.brPressed::after {
+        background-size: 95% !important;
+    }
+    .primary_4::after, .primary_4.brPressed::after {
+        left: 55px;
+    }
+    .delete_buttons::before{
+        font-size: 21px;
+        top: 10px;
+        line-height: 15px;
+    }
+    .alclear_button::after{
+        right: 49px;
+        left: -10px;
+    }
+}
+
+@media(max-width: 479px){
+    .container{
+        padding: 15px;
+    }
+}
+
+@media(max-width: 452px){
+    .numButtons, .primary {
+        padding: 21px 0px;
+    }
+    .numButtons{
+    font-size: 21px;
+    }
+    .label{
+    left: -120px;
+    top: 43px;
+    font-size: 25px;
+    }
+    .input_text{
+    height: 82px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    }
+    .primary::after, .primary.brPressed::after {
+    left: 61px;
+    background-size: 90%;
+    top: 20px;
+    bottom: 10px;
+    }
+    .primary_1::after, .primary_1.brPressed::after {
+    background-size: 95% !important;
+    }
+    .primary_4::after, .primary_4.brPressed::after {
+    left: 55px;
+    }
+    .delete_buttons::before{
+    font-size: 21px;
+    top: 10px;
+    line-height: 15px;
+    }
+    .alclear_button::after{
+    right: 45px;
+        left: -10px;
+    }
+}
+
+@media(max-width: 400px){
+    .container{
+        padding: 10px;
+    }
+    .label{
+        font-size: 22px;
+    }
+    .primary::after, .primary.brPressed::after{
+        background-size: 80%;
+        top: 22px;
+    }
+    .primary_1::after, .primary_1.brPressed::after{
+        background-size: 85% !important;
+    }
+    .primary_4::after, .primary_4.brPressed::after{
+        background-size: 75% !important;
+    }
+}
+
+@media(max-width: 368px){
+    .numButtons, .primary {
+        padding: 17px 0px;
+    }
+    .clear_input_container{
+        margin: 12px 0 0px 0;
+    }
+    .delete_buttons::before{
+        font-size: 17px;
+        top: 9px;
+        line-height: 6px;
+    }
+    .primary_1::after, .primary_1.brPressed::after {
+        background-size: 68% !important;
+    }
+    .primary_4::after, .primary_4.brPressed::after {
+        background-size: 62% !important;
+        top: 25px;
+        left: 45px !important;
+    }
+    .primary::after, .primary.brPressed::after {
+        background-size: 56%;
+        left: 49px;
+    }
+    .label{
+    font-size: 20px;
+    left: -110px;
+    }
+    .input_text {
+    height: 72px;
+    padding-bottom: 16px;
+    padding-right: 12px;
+    font-size: 17px;
+    }
+    .alclear_button::after {
+    right: 39px;
+    }
+}
+
+@media(max-width: 320px){
+    .numButtons, .primary {
+        padding: 13px 0px;
+    }
+    .alclear_button::after {
+    right: 32px;
+    }
+    .label{
+    left: -95px;
+    }
+    .numButtons::before{
+    border: 5px;
+    }
+}
+@media(max-width: 280px){
+    .primary_1::after, .primary_1.brPressed::after {
+    top: 19px;
+    left: 23px !important;
+    }
+    .primary_4::after, .primary_4.brPressed::after{
+        left: 24px !important;
+        top: 21px !important;
+    }
+    .primary::after, .primary.brPressed::after {
+        background-size: 56%;
+        left: 26px;
+        top: 16px;
+    }
+    .alclear_button::after {
+        right: 27px;
+    }
+    .delete_buttons::before{
+        font-size: 15px;
+        right: 7px;
+        left: 7px;
+    }
+    .delete_buttons {
+        width: 24.6%;
+    }
+    .numButtons, .primary{
+        padding: 10px 0px;
+    }
+    .numButtons::before {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    .primary::before {
+            top: 0;
+    bottom: 0;
+     left: 0;
+        right: 0px;
+        border: none;
+    }
+    .input_text{
+        font-size: 16px;
+        padding-right: 9px;
+    }
+    .label{
+        left: -87px;
+        font-size: 16px;
+    }
+    .clear_input_container {
+        margin: 10px 0 0px 0;
+    }
+}

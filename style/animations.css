@@ -1,0 +1,68 @@
+@keyframes gradi{
+    0% {
+      background-size: 100% 100%;
+      background-position: center;
+    }
+    50% {
+      background-size: 200% 200%;
+      background-position:center;
+    }
+     100% {
+      background-size: 100% 100%;
+      background-position:center;
+    }
+  }
+
+  @keyframes noise{
+    25%{
+      background: url(../svg_images/noise2.jpg);
+    }
+    50%{
+      background: url(../svg_images/noise3.jpg);
+    }
+     75%{
+      background: url(../svg_images/noise2.jpg);
+    }
+    100%{
+      background: url(../svg_images/noise4.jpg);
+    } 
+  }
+
+  
+@keyframes error{
+    25%{
+      background: url(../svg_images/noiseError.jpg);
+    }
+    50%{
+      background: url(../svg_images/noiseError2.jpg);
+    }
+    75%{
+      background: url(../svg_images/noiseError3.jpg);
+    }
+    100%{
+      background: url(../svg_images/noiseError2.jpg);
+    } 
+  }
+
+  @keyframes errorLabel{
+    25%{
+      right: 1px;
+    }
+    50%{
+      right: 2px;
+    }
+    75%{
+      right: 3px;
+      color: transparent;
+    }
+    80%{
+      right: -2px;
+    }
+    90%{
+      right: -2px;
+      color: transparent;
+    }
+    100%{
+      right: -2px;
+    }
+  }
